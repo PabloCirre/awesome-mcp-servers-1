@@ -91,6 +91,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - <sup>n</sup> Subsequent implementations
 </details></sup>
 
+- <img src="https://cdn.simpleicons.org/files/0D9488" height="14"/> [KaijuConverter](https://github.com/PabloCirre/kaijuconverter-mcp) - Convert 201+ file formats (HEIC, PDF, DOCX, XLSX, CSV, ODS, RAW, CAD, EPUB, MP4, MP3) and query 54 Studio tools via [KaijuConverter](https://kaijuconverter.com) with SHA-256 verification.
 <br />
 
 ## Tools & Utilities
