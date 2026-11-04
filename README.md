@@ -151,6 +151,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
+- <img src="https://kaijuconverter.com/favicon-32x32.png" height="14"/> [KaijuConverter](https://github.com/PabloCirre/kaijuconverter-mcp) - Universal file conversion MCP server supporting 201+ formats, 3,208 conversion pairs, and 54 specialized document/media tools (PDF/A-2b archival, 12-language Tesseract OCR, exact byte-cap compression, and SHA-256 verification) via stdio or remote HTTP (`https://kaijuconverter.com/api/mcp`).
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
 
 
